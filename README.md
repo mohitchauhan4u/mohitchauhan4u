@@ -16,9 +16,9 @@ l<h3 align="center">Hey there, I'm Mohit Chauhan <img src="https://media.giphy.c
 ## 📈 Github Stats
 
 <!-- <details> -->
-  <summary>📊 GitHub Profile Stats</summary>
+  <summary align="center">📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mohitchauhan4u's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohitchauhan4u&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img alt="mohitchauhan4u's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohitchauhan4u&show_icons=true&count_private=true&hide=" /></a>
 <!-- </details> -->
 <!-- 
 <details>  -->
