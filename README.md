@@ -14,10 +14,10 @@
 <!--
 **mohitchauhan4u/mohitchauhan4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
--🎓 I'm a Computer Science Engineering student (graduating in May 2023)
+- 🎓 I'm a Computer Science Engineering student (graduating in May 2023)
 - 🌱 I’m currently learning FullStack web development
 - 😄 Pronouns: He/Him
--📫 How to reach me mohitchauhan1929@gmail.com
+- 📫 How to reach me mohitchauhan1929@gmail.com
 - ⚡ Fun fact: I'm a Shayar(Poet).
 
 ## 🔥 My contribution streak
