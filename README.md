@@ -1,15 +1,14 @@
+<!--
+        // add image here in future
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
+</p> -->
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohit Chauhan- aka Chauhan<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitchauhan4u&label=Profile%20views&color=0e75b6&style=flat" alt="mohitchauhan4u" /> </p>
 
 ## 📖 About me
-
-
-
 
 ## 🔥 My contribution streak
 
@@ -31,10 +30,9 @@
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 
+<!--
 
-<!-- 
-
-//inspierd from him 
+//inspierd from him
 
 https://github.com/ShubhamSarda/awesome-github-profile-readme-templates/blob/master/Delta456.md
 
@@ -67,9 +65,5 @@ https://github.com/ShubhamSarda/awesome-github-profile-readme-templates/blob/mas
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/mohitchauhan4u) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/mohitchauhan4u/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/mohitchauhan4u) 
-|---|---|---|
-
-
-
-
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/mohitchauhan4u) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/mohitchauhan4u/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/mohitchauhan4u) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
