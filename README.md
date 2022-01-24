@@ -60,9 +60,8 @@ l<h3 align="center">Hey there, I'm Mohit Chauhan <img src="https://media.giphy.c
 You can find and get touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/mohitchauhan4u) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/mohitchauhan4u/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/mohitchauhan4u) 
-|---|---|---|---|---|---|---|---|
+|---|---|---|
 
----
 
 
 
