@@ -10,6 +10,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitchauhan4u&label=Profile%20views&color=0e75b6&style=flat" alt="mohitchauhan4u" /> </p>
 
 ## 📖 About me
+<!-- 
+**mohitchauhan4u/mohitchauhan4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+- 🌱 I’m currently learning FullStack web development
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a Shayar(Poet).
 
 ## 🔥 My contribution streak
 
