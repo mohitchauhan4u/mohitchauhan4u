@@ -2,8 +2,8 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohit Chauhan</h1>
-<
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohit Chauhan- aka Chauhan<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitchauhan4u&label=Profile%20views&color=0e75b6&style=flat" alt="mohitchauhan4u" /> </p>
 
 ## 📖 About me
@@ -21,22 +21,24 @@
 
 ## 📈 Github Stats
 
-<!-- <details> -->
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mohitchauhan4u's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohitchauhan4u&show_icons=true&count_private=true&hide=" /></a>
-<!-- </details> -->
-<!-- 
-<details>  -->
+
   <summary>💻 Most used languages</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mohitchauhan4u's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchauhan4u&langs_count=10&layout=compact#" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-<!-- </details> -->
 
 
 <!-- 
+
+//inspierd from him 
+
+https://github.com/ShubhamSarda/awesome-github-profile-readme-templates/blob/master/Delta456.md
+
+
 ## Programming Languages 🌐
 
 - Know/Using
