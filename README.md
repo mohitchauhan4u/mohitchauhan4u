@@ -15,9 +15,21 @@ l<h3 align="center">Hey there, I'm Mohit Chauhan <img src="https://media.giphy.c
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/mohitchauhan4u?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
+## 📈 Github Stats
 
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mohitchauhan4u's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohitchauhan4u&show_icons=true&count_private=true&hide=" /></a>
+</details>
 
-
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mohitchauhan4u's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchauhan4u&langs_count=10&layout=compact#" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
 
 
 
