@@ -7,7 +7,7 @@
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohit Chauhan- aka Chauhan<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitchauhan4u&label=Profile%20views&color=0e75b6&style=flat" alt="mohitchauhan4u" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitchauhan4u&label=Profile%20views&color=0e75b6&style=flat" alt="mohitchauhan4u" /> </p> -->
 
 ## 📖 About me
 
