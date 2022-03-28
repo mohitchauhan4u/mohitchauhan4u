@@ -42,8 +42,8 @@
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
   <br/>
-
-<a href="https://github.com/liorupam123/github-readme-activity-graph"><img alt="Mohit Chauhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohitchauhan4u&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- 
+<a href="https://github.com/liorupam123/github-readme-activity-graph"><img alt="Mohit Chauhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohitchauhan4u&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 
 <!--
